@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Vitória Magnus
 
-- 🌱 Estou atualmente estudando Flutter
+- 🌱 Atualmente estudando Flutter
 - 📫 vitoria.magnus@rede.ulbra.br
 - 😄 Pronome: Ela/Dela
 
