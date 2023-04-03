@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Vitória Magnus
 
 - 🌱 Atualmente estudando Flutter
-- 📫 vitoria.magnus@rede.ulbra.br
+- 📫 vivimagnus96@gmail.com
 - 😄 Pronome: Ela/Dela
 
 <div>
